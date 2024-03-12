@@ -7,3 +7,5 @@ tried makeBlueCircle
 different colours
 mousePressed
 setInterval, setTimeout
+
+When I change none to main from the setting, the link I got is not for the code live view, they are all the link of showing Readme page. ;(
